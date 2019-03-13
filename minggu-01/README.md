@@ -35,33 +35,24 @@
 
 9.Pilih PuTTY untuk terminal yang digunakan untuk mengakses Git Bash.
 
-![01](image/9.jpg)
-
-10.Untuk opsi ekstra, pilih serta aktifkan 1 dan 2.
 
 ![01](image/10.jpg)
 
-11.Setelah itu proses instalasi akan dilakukan.
-
-![01](image/11.jpg)
 
 12.Jika selesai akan muncul dialog pemberitahuan. Klik pada Finish.
 
-![01](image/12.jpg)
+![01](image/9.jpg)
 
 
-13.Untuk menjalankan, dari Start menu, ketikkan "Git", akan muncul beberapa pilihan. Pilih "Git Bash" atau "Git GUI".
-
-![01](image/13.jpg)
 
 14.Tampilan jika akan menggunakan "Git Bash"
 
-![01](image/14.jpg)
+![01](image/11.jpg)
 
 15.Tampilan jika akan menggunakan "Git GUI"
 
-![01](image/15.jpg)
+![01](image/12.jpg)
 
 16.Untuk mencoba dari command prompt, masuk ke command prompt, setelah itu eksekusi "git --version" untuk melihat apakah sudah terinstall atau belum. Jika sudah terinstall dengan benar, makan akan muncul hasil berikut:
 
-![01](image/16.jpg)
+![01](image/13.jpg)
