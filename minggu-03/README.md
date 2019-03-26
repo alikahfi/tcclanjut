@@ -1,3 +1,3 @@
 # tcclanjut minggu-03
 
-![1] (Building Container/01.jpg)
+![01] (buildingcontainer/1.jpg)
